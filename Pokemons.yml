@@ -1,0 +1,26 @@
+- pokemon_one: 
+   name: A
+   health: 1
+   attack: 2
+   defence: 3
+   speed: 4
+   special attack: 5
+   special defence: 6
+
+- pokemon_two: 
+   name: B
+   health: 10
+   attack: 20
+   defence: 30
+   speed: 40
+   special attack: 50
+   special defence: 60
+
+- pokemon_three: 
+   name: C
+   health: 11
+   attack: 22
+   defence: 33
+   speed: 44
+   special attack: 55
+   special defence: 66
